@@ -1,9 +1,9 @@
 {
     "addres": "Rua Lisboa",
-    "cpf": "752.785.970-97" ,
-    "value": 780.00,
+    "cpf": "222.22.922-97" ,
+    "value": 70.00,
     "paymentType" : "PIX",
     "cashPaymentInfo" : {
-        "pixKey": "752.785.970-97"
+        "pixKey": "444.555.666-97"
     }
 }
